@@ -2,6 +2,8 @@ import java.io.File
 import java.math.BigInteger
 import java.security.MessageDigest
 
+data class MutablePair<T, U>(var first: T, var second: U);
+
 /**
  * Reads lines from the given input txt file.
  */

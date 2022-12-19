@@ -1,8 +1,5 @@
 import kotlin.math.abs
 import kotlin.math.max
-
-data class MutablePair<T, U>(var first: T, var second: U);
-
 fun main() {
     fun part1(input: List<String>): Int {
         val ropeSize = 2;

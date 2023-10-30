@@ -2,7 +2,7 @@
 
 My solutions to the [Advent of Code 2022][aoc2022] puzzles, written in [Kotlin][kotlin] using their [template]. That was fun!
 
-| Day | Title                                                            | Link                                                                                                           |
+| Day | Problem                                                          | Solution                                                                                                       |
 |-----|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | 1   | [Calorie Counting](https://adventofcode.com/2022/day/1)          | [Day01](https://github.com/MickyOR/advent-of-code-2022-kotlin/blob/main/src/Day01.kt)                          |
 | 2   | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)       | [Day02](https://github.com/MickyOR/advent-of-code-2022-kotlin/blob/main/src/Day02.kt)                          |
